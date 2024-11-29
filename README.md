@@ -1,0 +1,6 @@
+- 👋 Olá, sou @WellingthonVictor  
+- 👀 Tenho interesse em desenvolvimento de software e automações.  
+- 🌱 Atualmente estou aprendendo sobre automação de processos com Python.  
+- 💞️ Estou procurando colaborar em projetos que envolvam automação ou manipulação de dados.  
+- 📫 Como entrar em contato comigo: wevi.rodrigues27@gmail.com    
+- ⚡ Fato curioso: Uso scripts Python para simplificar processos e criar soluções práticas no dia a dia.  
